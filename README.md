@@ -1,7 +1,8 @@
 # Cv-Project-Visual-Summary
 Best Preference:
-scipy == 1.1.0
 
+scipy == 1.1.0
+cv2 => pip install opencv-python
 
 If you want to change your code as a latest version of the environment.
 
